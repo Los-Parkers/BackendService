@@ -1,0 +1,6 @@
+@EzParkPlatform_HostAddress = http://localhost:5117
+
+GET {{EzParkPlatform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
